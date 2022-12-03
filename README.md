@@ -1,4 +1,4 @@
-# Recherche et tri - adresses de France.  
+# Recherche et tri - adresses de France
 
 Programme développé en C permettant de trier et d'effectuer des recherches sur l'ensemble des adresses de France.
 
