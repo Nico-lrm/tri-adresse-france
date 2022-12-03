@@ -17,6 +17,6 @@ Programme développé en C permettant de trier et d'effectuer des recherches sur
 - Recherche séquentielle
 - Recherche dichotomique
 
-## Fonctionnalité
+## Fonctionnalités
 - Lecture d'un fichier type tableur au format CSV
 - Enregistrement du temps d'exécution des algorithmes dans un fichier format CSV
